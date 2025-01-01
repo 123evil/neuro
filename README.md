@@ -1,5 +1,5 @@
 # **Neuro sama clipper database (YT)**
-## **Neuro-Sama**.
+## **Neuro-Sama**
 [Neuro-Sama](https://www.youtube.com/@Neurosama)  
 [Neuro-sama Official Vods](https://www.youtube.com/@Neuro-samaVods)
 ## **clippers**
