@@ -1,7 +1,4 @@
 # **Neuro sama clipper database**
-[clippers](clippers)  
-[compilation clippers](compilation-clippers)  
-[archivers](archivers)  
 ## **Neuro-Sama**
 [Neuro-Sama](https://www.youtube.com/@Neurosama)  
 ## **clippers**
